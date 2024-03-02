@@ -1,0 +1,9 @@
+
+<resources>
+
+<string name="facebook_app_id">430420779221610</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">04b4bdc2de7668d3668b586ebbc5e44e</string>
+<string name="app_name">Magnus App</string>
+
+</resources>

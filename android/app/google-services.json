@@ -1,0 +1,165 @@
+{
+  "project_info": {
+    "project_number": "286318977562",
+    "firebase_url": "https://magnus-app-7005a-default-rtdb.firebaseio.com",
+    "project_id": "magnus-app-7005a",
+    "storage_bucket": "magnus-app-7005a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286318977562:android:96277e2261fc71d26227a3",
+        "android_client_info": {
+          "package_name": "com.example.magnus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286318977562-448hubjkiv20lrsgm75b8rio8visnmcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magnus_app",
+            "certificate_hash": "91f7dc6eef0fdaf157cff98b6c7f560b4c6023e7"
+          }
+        },
+        {
+          "client_id": "286318977562-6kfkckbmd0lpmqtioi2ng9bggrjmvroa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magnus_app",
+            "certificate_hash": "c4f5a11c67067236d695219cef7ce02696528ac4"
+          }
+        },
+        {
+          "client_id": "286318977562-a0so494rclcuth70293h4a2g03n3lqnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magnus_app",
+            "certificate_hash": "a2d7eb213ca13323b52c32af3a5aef6de94b27cb"
+          }
+        },
+        {
+          "client_id": "286318977562-eie8scs1fdnu85ascbolvk5iitqnuuql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magnus_app",
+            "certificate_hash": "9ea69dc5edbcb03f1ac864b3ddf51324f7246d0a"
+          }
+        },
+        {
+          "client_id": "286318977562-sdbqnjnvtc2c258cacauovg7j0c47cmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magnus_app",
+            "certificate_hash": "f88a3b445847a51d97ae154fd0c624fdc602af44"
+          }
+        },
+        {
+          "client_id": "286318977562-sv9er9a5pigps6kmobeup0p796hhb6hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magnus_app",
+            "certificate_hash": "0d3c987ecf1c0c47eb0ddcdb95803247fd1ee9f4"
+          }
+        },
+        {
+          "client_id": "286318977562-epa3kp625ugdi5a40fsvc15bn5e8v25p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDprt2mBHSDkFXbzIq43VrACAAG7PwjbiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286318977562-epa3kp625ugdi5a40fsvc15bn5e8v25p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286318977562:android:6c19eaf2f36d93d66227a3",
+        "android_client_info": {
+          "package_name": "com.shellcode.magnus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286318977562-3n76p634ckjhr3qc9ua92bobjt98hmgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shellcode.magnus",
+            "certificate_hash": "9ea69dc5edbcb03f1ac864b3ddf51324f7246d0a"
+          }
+        },
+        {
+          "client_id": "286318977562-cnrvgalrpthdbplfubf63ie4o1jsh1mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shellcode.magnus",
+            "certificate_hash": "c4f5a11c67067236d695219cef7ce02696528ac4"
+          }
+        },
+        {
+          "client_id": "286318977562-ebtvdb6i4lnva8m077mvnoa8nmt138i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shellcode.magnus",
+            "certificate_hash": "eaf2913b3208bed0edb848b67a048a26d6c59e6b"
+          }
+        },
+        {
+          "client_id": "286318977562-fbufn4f1b000872528q0ssm7n9pp2hpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shellcode.magnus",
+            "certificate_hash": "91f7dc6eef0fdaf157cff98b6c7f560b4c6023e7"
+          }
+        },
+        {
+          "client_id": "286318977562-fdoh10qd53abroonm7i25no2m5rrangq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shellcode.magnus",
+            "certificate_hash": "a2d7eb213ca13323b52c32af3a5aef6de94b27cb"
+          }
+        },
+        {
+          "client_id": "286318977562-viof0uhhauump343j8e7jikrle12mm5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shellcode.magnus",
+            "certificate_hash": "f88a3b445847a51d97ae154fd0c624fdc602af44"
+          }
+        },
+        {
+          "client_id": "286318977562-epa3kp625ugdi5a40fsvc15bn5e8v25p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDprt2mBHSDkFXbzIq43VrACAAG7PwjbiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286318977562-epa3kp625ugdi5a40fsvc15bn5e8v25p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
